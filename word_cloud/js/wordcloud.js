@@ -229,7 +229,7 @@ function drawWordCloud() {
         .attr('width', width)
         .attr('height', height)
         .append('g')
-        .attr('transform', 'translate(' + (width / 2 -50) + ', ' + (height / 2) + ')')
+        .attr('transform', 'translate(' + (width / 2 - 75) + ', ' + (height / 2) + ')')
         .selectAll('text')
         .data(data) // 實際data的輸入位置
         .enter()
