@@ -229,13 +229,13 @@ function drawWordCloud() {
         .attr('width', width)
         .attr('height', height)
         .append('g')
-        .attr('transform', 'translate(' + (width / 2) + ', ' + (height / 2) + ')')
+        .attr('transform', 'translate(' + (width / 2 -50) + ', ' + (height / 2) + ')')
         .selectAll('text')
         .data(data) // 實際data的輸入位置
         .enter()
         .append('text')
         .style('font-size', data => {
-            return window.parseFloat(Math.pow(data.count, 0.66).toFixed(2)) * 0.50; // 這邊會依據data的count數量大小做調整
+            return window.parseFloat(Math.pow(data.count, 0.66).toFixed(2)) * 0.66; // 這邊會依據data的count數量大小做調整
                                                                                 // 但我這邊有取log再乘上純量倍數，避免文字雲
                                                                                 // 的內容過於稀疏或壅擠
         })
