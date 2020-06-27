@@ -8,21 +8,22 @@
     <link rel="stylesheet" type="text/css" href="./css/tooltip.css">
     <script type="text/javascript" src="./js/d3.v5.min.js"></script>
     <script type="text/javascript" src="./js/d3.layout.cloud.js"></script>
-    <script type="text/javascript" src="./js/wordcloud.js"></script>
+    <script type="text/javascript" src="./js/wordcloud2.js"></script>
 </head>
 
 <body>
     <center>
-        <h1>品味單字雲 - 專家</h1>
-        <p>Distiller 網站的<b> 專家品評筆記 </b>，前五十大最常出現單字</p>
-        <br>
+        <h1>品味單字雲 - 消費者</h1>
+        <p> Distiller 網站的<b> 消費者心得評論 </b>，前五十大最常出現單字。</p>
         <center>
+            <br>
             <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);", style="height:fit-content">
                 <option value="">--請選擇評論--</option>
-                <option value=index2.html>消費者心得評論</option>
+                <option value=index.html>專家品評筆記</option>
             </select>
         </center>
         <div id="chart"></div>
     </center>
+
 </body>
-</html>
+</html

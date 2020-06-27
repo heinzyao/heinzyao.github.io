@@ -2,204 +2,204 @@
 // count決定放大縮小的程度
 let data = [
     {
-        "text": "finish",
-        "count": 1054
-    },
-    {
-        "text": "palate",
-        "count": 1045
-    },
-    {
         "text": "nose",
-        "count": 999
+        "count": 2181
     },
     {
-        "text": "vanilla",
-        "count": 889
-    },
-    {
-        "text": "notes",
-        "count": 781
-    },
-    {
-        "text": "whisky",
-        "count": 713
+        "text": "finish",
+        "count": 2100
     },
     {
         "text": "sweet",
-        "count": 638
-    },
-    {
-        "text": "oak",
-        "count": 574
-    },
-    {
-        "text": "spice",
-        "count": 488
-    },
-    {
-        "text": "whiskey",
-        "count": 449
-    },
-    {
-        "text": "honey",
-        "count": 432
-    },
-    {
-        "text": "fruits",
-        "count": 425
-    },
-    {
-        "text": "spices",
-        "count": 422
-    },
-    {
-        "text": "smoke",
-        "count": 416
-    },
-    {
-        "text": "caramel",
-        "count": 384
-    },
-    {
-        "text": "chocolate",
-        "count": 382
-    },
-    {
-        "text": "rye",
-        "count": 362
-    },
-    {
-        "text": "fruit",
-        "count": 334
-    },
-    {
-        "text": "flavors",
-        "count": 325
-    },
-    {
-        "text": "wood",
-        "count": 320
-    },
-    {
-        "text": "cinnamon",
-        "count": 300
+        "count": 2033
     },
     {
         "text": "like",
-        "count": 291
+        "count": 1794
     },
     {
-        "text": "bit",
-        "count": 288
+        "text": "vanilla",
+        "count": 1775
     },
     {
-        "text": "dark",
-        "count": 277
+        "text": "notes",
+        "count": 1481
     },
     {
-        "text": "well",
-        "count": 266
-    },
-    {
-        "text": "peat",
-        "count": 265
-    },
-    {
-        "text": "along",
-        "count": 262
-    },
-    {
-        "text": "sweetness",
-        "count": 260
-    },
-    {
-        "text": "dried",
-        "count": 251
-    },
-    {
-        "text": "rich",
-        "count": 251
-    },
-    {
-        "text": "pepper",
-        "count": 247
-    },
-    {
-        "text": "spicy",
-        "count": 244
-    },
-    {
-        "text": "long",
-        "count": 242
-    },
-    {
-        "text": "malt",
-        "count": 238
-    },
-    {
-        "text": "touch",
-        "count": 232
-    },
-    {
-        "text": "light",
-        "count": 229
-    },
-    {
-        "text": "orange",
-        "count": 217
-    },
-    {
-        "text": "citrus",
-        "count": 217
-    },
-    {
-        "text": "dry",
-        "count": 210
-    },
-    {
-        "text": "also",
-        "count": 209
-    },
-    {
-        "text": "floral",
-        "count": 205
-    },
-    {
-        "text": "aromas",
-        "count": 202
+        "text": "oak",
+        "count": 1404
     },
     {
         "text": "one",
-        "count": 193
+        "count": 1309
     },
     {
         "text": "taste",
-        "count": 192
+        "count": 1220
+    },
+    {
+        "text": "bottle",
+        "count": 1198
     },
     {
         "text": "bourbon",
-        "count": 191
+        "count": 1188
     },
     {
-        "text": "sugar",
-        "count": 188
+        "text": "spice",
+        "count": 1181
     },
     {
-        "text": "toffee",
-        "count": 182
+        "text": "good",
+        "count": 1157
     },
     {
-        "text": "aroma",
-        "count": 181
+        "text": "palate",
+        "count": 1153
     },
     {
-        "text": "soft",
-        "count": 171
+        "text": "bit",
+        "count": 1117
     },
     {
-        "text": "toasted",
-        "count": 167
+        "text": "smoke",
+        "count": 1050
+    },
+    {
+        "text": "little",
+        "count": 1043
+    },
+    {
+        "text": "caramel",
+        "count": 983
+    },
+    {
+        "text": "whisky",
+        "count": 941
+    },
+    {
+        "text": "smooth",
+        "count": 915
+    },
+    {
+        "text": "peat",
+        "count": 888
+    },
+    {
+        "text": "honey",
+        "count": 858
+    },
+    {
+        "text": "get",
+        "count": 845
+    },
+    {
+        "text": "really",
+        "count": 832
+    },
+    {
+        "text": "whiskey",
+        "count": 827
+    },
+    {
+        "text": "Nose",
+        "count": 826
+    },
+    {
+        "text": "light",
+        "count": 804
+    },
+    {
+        "text": "sweetness",
+        "count": 802
+    },
+    {
+        "text": "much",
+        "count": 782
+    },
+    {
+        "text": "fruit",
+        "count": 780
+    },
+    {
+        "text": "nice",
+        "count": 758
+    },
+    {
+        "text": "flavor",
+        "count": 738
+    },
+    {
+        "text": "long",
+        "count": 709
+    },
+    {
+        "text": "price",
+        "count": 697
+    },
+    {
+        "text": "rye",
+        "count": 693
+    },
+    {
+        "text": "would",
+        "count": 681
+    },
+    {
+        "text": "first",
+        "count": 645
+    },
+    {
+        "text": "well",
+        "count": 639
+    },
+    {
+        "text": "hint",
+        "count": 638
+    },
+    {
+        "text": "cinnamon",
+        "count": 629
+    },
+    {
+        "text": "chocolate",
+        "count": 618
+    },
+    {
+        "text": "great",
+        "count": 601
+    },
+    {
+        "text": "sherry",
+        "count": 577
+    },
+    {
+        "text": "dram",
+        "count": 566
+    },
+    {
+        "text": "spicy",
+        "count": 565
+    },
+    {
+        "text": "time",
+        "count": 556
+    },
+    {
+        "text": "water",
+        "count": 556
+    },
+    {
+        "text": "dark",
+        "count": 547
+    },
+    {
+        "text": "flavors",
+        "count": 521
+    },
+    {
+        "text": "scotch",
+        "count": 516
     }
 ];
 
@@ -235,7 +235,7 @@ function drawWordCloud() {
         .enter()
         .append('text')
         .style('font-size', data => {
-            return window.parseFloat(Math.pow(data.count, 0.66).toFixed(2)) * 0.66; // 這邊會依據data的count數量大小做調整
+            return window.parseFloat(Math.pow(data.count, 0.66).toFixed(2)) * 0.4; // 這邊會依據data的count數量大小做調整
                                                                                 // 但我這邊有取log再乘上純量倍數，避免文字雲
                                                                                 // 的內容過於稀疏或壅擠
         })
