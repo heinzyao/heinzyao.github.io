@@ -215,7 +215,7 @@ function draw() {
         .rotate(0)
         .font('"微軟正黑體",Impact')
         .fontSize(data => {
-            return window.parseFloat(Math.log10(data.count).toFixed(2)) * 16.5;
+            return window.parseFloat(Math.log10(data.count).toFixed(2)) * 14;
         })
         .on("end", drawWordCloud).start();
 }
@@ -235,7 +235,7 @@ function drawWordCloud() {
         .enter()
         .append('text')
         .style('font-size', data => {
-            return window.parseFloat(Math.pow(data.count, 0.66).toFixed(2)) * 0.66; // 這邊會依據data的count數量大小做調整
+            return window.parseFloat(Math.pow(data.count, 0.5).toFixed(2)) * 0.55; // 這邊會依據data的count數量大小做調整
                                                                                 // 但我這邊有取log再乘上純量倍數，避免文字雲
                                                                                 // 的內容過於稀疏或壅擠
         })
