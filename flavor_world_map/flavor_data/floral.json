@@ -1,119 +1,39 @@
 [
     {
-        "key":"ARM",
-        "doc_count":10.0
-    },
-    {
-        "key":"ATG",
-        "doc_count":25.0
-    },
-    {
         "key":"AUS",
-        "doc_count":38.74
-    },
-    {
-        "key":"AUT",
-        "doc_count":35.0
+        "doc_count":43.85
     },
     {
         "key":"BEL",
-        "doc_count":21.5
-    },
-    {
-        "key":"BMU",
-        "doc_count":17.5
-    },
-    {
-        "key":"BOL",
-        "doc_count":80.0
-    },
-    {
-        "key":"BRA",
-        "doc_count":34.6
-    },
-    {
-        "key":"BRB",
-        "doc_count":23.59
+        "doc_count":55.0
     },
     {
         "key":"CAN",
-        "doc_count":30.94
+        "doc_count":31.05
     },
     {
         "key":"CHE",
-        "doc_count":40.0
-    },
-    {
-        "key":"CHL",
-        "doc_count":42.5
-    },
-    {
-        "key":"COL",
-        "doc_count":15.0
-    },
-    {
-        "key":"CUB",
-        "doc_count":16.67
+        "doc_count":10.0
     },
     {
         "key":"CZE",
         "doc_count":30.0
     },
     {
-        "key":"DEU",
-        "doc_count":77.5
-    },
-    {
         "key":"DNK",
-        "doc_count":22.5
-    },
-    {
-        "key":"DOM",
-        "doc_count":23.69
+        "doc_count":26.67
     },
     {
         "key":"ESP",
-        "doc_count":14.0
-    },
-    {
-        "key":"FIN",
-        "doc_count":40.0
-    },
-    {
-        "key":"FJI",
         "doc_count":10.0
     },
     {
         "key":"FRA",
-        "doc_count":35.54
+        "doc_count":46.92
     },
     {
         "key":"GBR",
-        "doc_count":29.16
-    },
-    {
-        "key":"GLP",
-        "doc_count":26.67
-    },
-    {
-        "key":"GRD",
-        "doc_count":21.67
-    },
-    {
-        "key":"GTM",
-        "doc_count":15.0
-    },
-    {
-        "key":"GUY",
-        "doc_count":17.14
-    },
-    {
-        "key":"HRV",
-        "doc_count":60.0
-    },
-    {
-        "key":"HTI",
-        "doc_count":24.17
+        "doc_count":29.43
     },
     {
         "key":"IND",
@@ -121,7 +41,7 @@
     },
     {
         "key":"IRL",
-        "doc_count":31.07
+        "doc_count":31.24
     },
     {
         "key":"ISR",
@@ -129,95 +49,35 @@
     },
     {
         "key":"ITA",
-        "doc_count":30.12
-    },
-    {
-        "key":"JAM",
-        "doc_count":21.67
+        "doc_count":37.5
     },
     {
         "key":"JPN",
-        "doc_count":36.79
-    },
-    {
-        "key":"LVA",
-        "doc_count":15.0
+        "doc_count":36.73
     },
     {
         "key":"MEX",
-        "doc_count":35.28
-    },
-    {
-        "key":"MTQ",
-        "doc_count":36.37
-    },
-    {
-        "key":"MUS",
-        "doc_count":20.0
-    },
-    {
-        "key":"NIC",
-        "doc_count":23.33
+        "doc_count":16.67
     },
     {
         "key":"NLD",
-        "doc_count":23.26
+        "doc_count":25.0
     },
     {
         "key":"NZL",
-        "doc_count":30.0
-    },
-    {
-        "key":"PAN",
-        "doc_count":24.89
-    },
-    {
-        "key":"PER",
-        "doc_count":46.53
-    },
-    {
-        "key":"PHL",
-        "doc_count":15.0
-    },
-    {
-        "key":"POL",
-        "doc_count":22.5
-    },
-    {
-        "key":"PRI",
-        "doc_count":25.23
-    },
-    {
-        "key":"PRT",
-        "doc_count":30.0
-    },
-    {
-        "key":"PRY",
-        "doc_count":15.0
+        "doc_count":32.5
     },
     {
         "key":"SWE",
-        "doc_count":28.95
-    },
-    {
-        "key":"THA",
-        "doc_count":17.5
-    },
-    {
-        "key":"TTO",
-        "doc_count":34.17
+        "doc_count":28.0
     },
     {
         "key":"TWN",
-        "doc_count":26.19
+        "doc_count":26.75
     },
     {
         "key":"USA",
-        "doc_count":28.95
-    },
-    {
-        "key":"VEN",
-        "doc_count":19.75
+        "doc_count":28.84
     },
     {
         "key":"ZAF",
